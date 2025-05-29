@@ -5,6 +5,12 @@ Este projeto implementa um agente de IA treinado com **Deep Q-Learning (DQN)** p
 
 ---
 
+
+> 📘 **Antes de continuar, confira o artigo completo:**  
+> [**Redes Neurais Profundas e Deep Q-Learning: Da Teoria à Aplicação Corporativa**](https://github.com/NicollasRezende/NeuralNK/blob/main/RedesNeurais.md)  
+> Um mergulho teórico e prático sobre como redes neurais profundas podem ser aplicadas em ambientes corporativos com Deep Q-Learning.
+
+
 ## 📂 Estrutura do Projeto
 
 ```
